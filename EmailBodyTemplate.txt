@@ -1,0 +1,11 @@
+Hii ${NAME} !!! <br><br>
+Greetings For The Day....<br><br>
+Almost Done,<br>
+Your Temporary Password is : ${PWD}<br>
+
+To Unlock Your TEK-LEADS Account , Just Click On The Below Link..<br>
+
+<a href="http://localhost:7575/unlockForm?email=${EMAIL}" style="color: blue"><u>Unlock Account<u></u></a> <br><br>
+
+Thanks & Regards,<br>
+TEKLEADS Group 
